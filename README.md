@@ -6,8 +6,6 @@
 
 ---
 
-### 🐍 Snake Animation
-
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/monavia/monavia/output/github-contribution-grid-snake-dark.svg">
