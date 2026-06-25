@@ -16,7 +16,7 @@
 
 ---
 
-### 🛠️ Technologies I Use
+### Technologies I Use
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
@@ -35,7 +35,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=monavia&show_icons=true&theme=radical&hide_border=true" alt="monavia stats"/>
