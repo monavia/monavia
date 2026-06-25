@@ -1,22 +1,26 @@
-# Hi there
+<h1 align="center">Hi there</h1>
 
-I'm Monavia a programmer from Pati, Jawa Tengah enjoying JavaScript & TypeScript and creating various projects with it. You can checkout the technologies I like to use below. I like to rebahan sambil memikirkan ide and sometimes turn those ideas into code.
+<p align="center">
+  I'm Monavia a programmer from Pati, Jawa Tengah enjoying JavaScript &amp; TypeScript and creating various projects with it. You can checkout the technologies I like to use below. I like to rebahan sambil memikirkan ide and sometimes turn those ideas into code.
+</p>
 
 ---
 
 ### 🐍 Snake Animation
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/monavia/monavia/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/monavia/monavia/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/monavia/monavia/output/github-contribution-grid-snake.svg">
-</picture>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/monavia/monavia/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/monavia/monavia/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/monavia/monavia/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
 
 ---
 
 ### 🛠️ Technologies I Use
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
