@@ -1,4 +1,4 @@
-<h1 align="center">Hi there</h1>
+<h1>Hi there</h1>
 
 <p align="center">
   Saya Monavia, programmer dari Pati, Jawa Tengah yang menikmati JavaScript &amp; TypeScript dan membuat berbagai proyek dengannya. Anda bisa melihat teknologi yang saya gunakan di bawah. Saya suka rebahan sambil memikirkan ide dan terkadang mengubah ide-ide tersebut menjadi kode.
