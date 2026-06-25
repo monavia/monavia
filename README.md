@@ -4,6 +4,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=JavaScript+%26+TypeScript+Developer;Welcome+to+my+profile!;Nice+to+meet+you+%F0%9F%91%8B" alt="typing svg" />
 </p>
 
+I'm Monavia a programmer from Pati, Jawa Tengah enjoying JavaScript & TypeScript and creating various projects with it. You can checkout the technologies I like to use below. I like to rebahan sambil memikirkan ide and sometimes turn those ideas into code.
+
 ---
 
 ### 🐍 Snake Animation
